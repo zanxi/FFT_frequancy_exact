@@ -1,0 +1,5 @@
+﻿  ConsoleApplication_FFT_frequancy.cpp
+C:\_2022___\_Rabota__HH__Source__My\ConsoleApplication_FFT_frequancy\ConsoleApplication_FFT_frequancy\ConsoleApplication_FFT_frequancy.cpp(31,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\_2022___\_Rabota__HH__Source__My\ConsoleApplication_FFT_frequancy\ConsoleApplication_FFT_frequancy\ConsoleApplication_FFT_frequancy.cpp(38,10): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\_2022___\_Rabota__HH__Source__My\ConsoleApplication_FFT_frequancy\ConsoleApplication_FFT_frequancy\ConsoleApplication_FFT_frequancy.cpp(55,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication_FFT_frequancy.vcxproj -> C:\_2022___\_Rabota__HH__Source__My\ConsoleApplication_FFT_frequancy\x64\Debug\ConsoleApplication_FFT_frequancy.exe
